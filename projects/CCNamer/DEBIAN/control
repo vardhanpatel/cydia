@@ -1,10 +1,10 @@
-Package: com.gilshahar7.cclabel
-Name: CCLabel
+Package: com.vardhanpatel.ccnamer
+Name: CCNamer
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: gilshahar7
-Author: gilshahar7
+Maintainer: Vardhan Patel
+Author: VardhanPatel
 Section: Tweaks
 Version: 0.0.1-11
 Installed-Size: 184
