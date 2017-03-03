@@ -3,25 +3,25 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vardhanpatel  <vardhanpatel1999@gmail.com.com>
 Filename: ./debs/com.finalrepo.ccnamer_1.0_iphoneos-arm.deb
-Size: 932
-MD5sum: e1d4a3498d41082a8a5dd1be10916279
-SHA1: e25f602db4c109c7b480f80a5b024025739aefb0
-SHA256: 40fd59013f5f799ad16653200e89eda0adf5795960b53db1bac76c2a2bf8e5bf
+Size: 2310
+MD5sum: e600107ed5b9491c1dc8ac731326b52b
+SHA1: edbc4f6a7ccf685923f9588e51be38956736dd17
+SHA256: a1bf1af8821bdbb63ed01d2ba99d680c3e6be1f6b7fe2475bf47f0db9fc8b894
 Section: Tweaks
 Description: Customize your CCpanel
 Author: vardhanpatel
 Depiction: https://github.com/vardhanpatel/vardhanpatel.github.io
 Name: CCNamer
 
-Package: com.FinalRepo.icons
+Package: com.vardhanpatel.icons
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vardhanpatel  <vardhanpatel1999@gmail.com.com>
-Filename: ./debs/com.finalrepo.icons_1.0_iphoneos-arm.deb
-Size: 2136
-MD5sum: 53e13463acc78414e059a1b5764584ec
-SHA1: 5f6ab8d2b7d02948e4dbe363bb786f06f26f5bc6
-SHA256: 4b816ebd645a3bd2c3a17bcfa4906760a8131d46720c73ae8e11eed95ab009f5
+Filename: ./debs/com.vardhanpatel.icons_1.0_iphoneos-arm.deb
+Size: 2132
+MD5sum: 125701dc22145b86c047303fa5d7a890
+SHA1: a9849323bd5061036826313d79737188087adc14
+SHA256: 10e807956a05492b9fb2e1703e6f695e51af4d625b994e133f900f7d39da05c0
 Section: Tweaks
 Description: Adds Icon Images
 Author: vardhanpatel
