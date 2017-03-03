@@ -3,7 +3,7 @@
 		bundle = CCLabelprefs;
 		cell = PSLinkCell;
 		detail = "CCLabelprefsListController";
-		icon = "CCLabelprefs.png";
+		icon = "CCNamerprefs.png";
 		isController = 1;
 		label = CCNamer;
 	};

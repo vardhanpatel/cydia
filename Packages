@@ -5,10 +5,10 @@ Maintainer: Vardhan Patel
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debs/com.vardhanpatel.ccnamer_0.0.1-11_iphoneos-arm.deb
-Size: 17414
-MD5sum: 121e0c4fcd1d83c25abd61784703aa99
-SHA1: 1c7170b91c995ce9205972033a4342be54f2faeb
-SHA256: e87417550a443494ef9a730aedd68e5d9930c988532952a32c9020ae91186672
+Size: 24740
+MD5sum: 93e7013c45da3db7dee59bee3fb0f172
+SHA1: d5b2bcd362173fd16730d63fcf2e2dc273be5e56
+SHA256: e27fe523a0d7e9fe0f7b4b7d7c48f0a8cde09ab9a546c1e3a2899a42874203af
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: VardhanPatel
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: vardhanpatel  <vardhanpatel1999@gmail.com.com>
 Filename: ./debs/com.vardhanpatel.icons_1.0_iphoneos-arm.deb
 Size: 1846
-MD5sum: 3addabe12e65d7ffc037cfe4393b38ba
-SHA1: c33792bb939ffb27b48ca9bacc7182a3ef737162
-SHA256: 98c4eb522b5457b0a0ade45457271d652bc1039a8896425bebd9bf2ada0ae7ea
+MD5sum: a6634f00153e3e3c9c93d2284b06da74
+SHA1: 624e9dda037c5df77dd01598e38510a8b6ebd1eb
+SHA256: 1bf1d28983447ec7253a34e210b80a598643861138133eea5cc3b18f80665c3d
 Section: Tweaks
 Description: Adds Icon Images
 Author: vardhanpatel
