@@ -1,17 +1,18 @@
-Package: com.FinalRepo.CCNamer
-Version: 1.0
+Package: com.gilshahar7.cclabel
+Version: 0.0.1-11
 Architecture: iphoneos-arm
-Maintainer: vardhanpatel  <vardhanpatel1999@gmail.com.com>
-Filename: ./debs/com.finalrepo.ccnamer_1.0_iphoneos-arm.deb
-Size: 1668
-MD5sum: 35ac1eb5870902658210fbf0c8498a38
-SHA1: 3f2dd87af0db5c89538fcf8c7c778fc72f06a2ea
-SHA256: e1aa811b0b0d0bdee81bcba70733bf43f74d7d26033aa813f415fd466fbf5af3
+Maintainer: gilshahar7
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.gilshahar7.cclabel_0.0.1-11_iphoneos-arm.deb
+Size: 17438
+MD5sum: aca0a11aae897391957f1c0065973f09
+SHA1: 149598a3f7833946fd30ffa17f37a65f71d07e20
+SHA256: 13eef40faaddce892745f6cccc2b10577992d4959cefdb318db8e21c48d1fbda
 Section: Tweaks
-Description: Customize your CCpanel
-Author: vardhanpatel
-Depiction: https://github.com/vardhanpatel/vardhanpatel.github.io
-Name: CCNamer
+Description: An awesome MobileSubstrate tweak!
+Author: gilshahar7
+Name: CCLabel
 
 Package: com.vardhanpatel.icons
 Version: 1.0
@@ -19,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: vardhanpatel  <vardhanpatel1999@gmail.com.com>
 Filename: ./debs/com.vardhanpatel.icons_1.0_iphoneos-arm.deb
 Size: 1846
-MD5sum: 120ad845e2bf43ae59e8b4a3a32ab75f
-SHA1: 2a54d7275f76fecbe912dbb34125db4c998f71d4
-SHA256: 4bf446cc525c608b5532ba5acdc433ab70aa77058e728a515606eba3c7172b5c
+MD5sum: c22627c626e48c292e751648e3c34507
+SHA1: 1e2acb854e5d6e11354d0b09d9da0fa3ba38915f
+SHA256: 751732be2372fe71caaa5b42841989f1f070b40052ae2d45bd01edec7b343410
 Section: Tweaks
 Description: Adds Icon Images
 Author: vardhanpatel

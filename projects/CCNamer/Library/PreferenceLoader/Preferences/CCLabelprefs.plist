@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CCLabelprefs;
+	cell = PSLinkCell;
+	detail = CCLabelprefsListController;
+	icon = CCLabelprefs.png;
+	isController = 1;
+	label = CCLabel;
+    };
+}
