@@ -29,3 +29,18 @@ Author: vardhanpatel
 Depiction: https://github.com/vardhanpatel/vardhanpatel.github.io
 Name: icons
 
+Package: com.vardhanpatel.ccnamer
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Vardhan Patel
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.vardhanpatel.cclabel_0.0.1-14_iphoneos-arm (1).deb
+Size: 24740
+MD5sum: 93e7013c45da3db7dee59bee3fb0f172
+SHA1: d5b2bcd362173fd16730d63fcf2e2dc273be5e56
+SHA256: e27fe523a0d7e9fe0f7b4b7d7c48f0a8cde09ab9a546c1e3a2899a42874203af
+Section: Tweaks
+Description: UPDATE: Added Respring Button/ Thanks to Gilshahar7
+Author: VardhanPatel
+Name: CCNamer
