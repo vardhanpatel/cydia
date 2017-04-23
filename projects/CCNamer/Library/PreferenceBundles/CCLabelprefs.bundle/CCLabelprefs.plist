@@ -8,7 +8,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Enter Your Name | Respring Manually | Thanks to gilshahar7 For Development Help</string>
+			<string>Enter Your Name | Thanks to gilshahar7 For Development Help</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -19,6 +19,16 @@
 			<string>textField</string>
 			<key>placeholder</key>
 			<string>Enter text here | Ex. Vardhan</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.gilshahar7.cclabelprefs</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>action</key>
+			<string>respring</string>
 		</dict>
 	</array>
 	<key>title</key>
